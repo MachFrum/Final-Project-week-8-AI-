@@ -146,3 +146,8 @@ Together, let's illuminate the path to understanding for every learner, everywhe
 *   **Social Media:** #LuminaraLearn #EducationRevolution #SDG4
 
 Thank you for being a part of the Luminara Learn story. Let's light up the world of learning, one discovery at a time! ✨📚💡
+
+## 🚀 Live Demo
+
+🔮 [Click here to preview the Luminara Student Success Simulator on Streamlit](https://52okcq6zpvq9vqme3qshva.streamlit.app/)
+
