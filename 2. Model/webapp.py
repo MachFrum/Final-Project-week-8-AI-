@@ -147,7 +147,7 @@ Use the sidebar on the left to configure a student's profile and see how differe
 """)
 
 # --- Load Model ---
-model = load_model('student_risk_model_v2.joblib')
+model = load_model("2. Model/student_risk_model_v2.joblib")
 
 if model:
     # --- Get User Input ---
