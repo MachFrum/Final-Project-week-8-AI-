@@ -6,6 +6,9 @@ This document outlines the development of the "Luminara Student Success Predicto
 
 Developed primarily within the `Luminara.ipynb` Jupyter Notebook, this initiative showcases a meticulous process of data analysis, feature engineering, model training, and rigorous evaluation. This README aims to demystify the technical journey, highlighting the strategic decisions that led to a highly accurate predictive model, and crucially, illustrating how this model underpins the invaluable assistance Luminara Learn offers to students.
 
+🔮 [Preview the Luminara Student Success Simulator](https://52okcq6zpvq9vqme3qshva.streamlit.app/) – Live Streamlit App
+
+
 ## 2. Project Overview and Objectives: Empowering Students with Luminara
 
 The central objective of the Luminara Student Success Predictor is to create an interactive "Student Success Simulator." This simulator is more than just a predictive tool; it's a dynamic demonstration of how Luminara Learn can proactively guide students toward success. By allowing users to manipulate various student attributes and simulate the effects of Luminara's interventions, the simulator vividly illustrates how easily students can fall behind without adequate support, and conversely, how Luminara can serve as an indispensable tutor and teacher.
@@ -108,5 +111,10 @@ To run the interactive simulator and experience Model V2 in action, navigate to 
 ```bash
 streamlit run webapp.py
 ```
+
+## 8. 🚀 Live Demo
+
+🔮 [Click here to preview the Luminara Student Success Simulator on Streamlit](https://52okcq6zpvq9vqme3qshva.streamlit.app/)
+
 
 This project underscores Luminara Learn's unwavering commitment to data-driven educational excellence, providing a clear path to student achievement and ensuring that every student has the opportunity to reach their full potential.
