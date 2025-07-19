@@ -151,3 +151,5 @@ Thank you for being a part of the Luminara Learn story. Let's light up the world
 
 🔮 [Click here to preview the Luminara Student Success Simulator on Streamlit](https://52okcq6zpvq9vqme3qshva.streamlit.app/)
 
+🔮 [Click here to preview the Breast Ultrasound Cancer Detection on Streamlit](https://tx3gvsdfnfqzmxo5daunbr.streamlit.app/)
+
