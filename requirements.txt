@@ -1,15 +1,6 @@
-streamlit==1.28.0
 pandas
-scikit-learn
 matplotlib
 seaborn
+scikit-learn
 joblib
-torch==2.0.1
-torchvision==0.15.2
-timm==0.9.7
-opencv-python-headless==4.8.1.78
-albumentations[extras]==1.3.1
-Pillow==10.0.1
-numpy==1.24.3
-plotly==5.17.0
-reportlab==4.0.7
+streamlit
