@@ -8,7 +8,7 @@ Luminara Learn is more than just a mobile application; it's a revolution in educ
 
 Our innovative approach is built on a foundation of powerful principles that shape every feature and interaction within the app:
 
-*   **Advancing Quality Education (UN SDG 4):** Luminara Learn is passionately committed to supporting the United Nations Sustainable Development Goal 4—ensuring inclusive and equitable quality education for all. Through **genius prompt engineering**, our app delivers the expertise, empathy, and personalized guidance of a world-class teacher directly to every learner’s phone. This isn't just about providing information; it's about crafting AI interactions that adapt to each student’s unique context, learning style, and needs, making personalized, effective guidance accessible regardless of location or background. We're bridging educational gaps, empowering independent learning, and making world-class teaching a reality for every student, everywhere.
+*   **Advancing Quality Education (UN SDG 4):** Luminara Learn is passionately committed to supporting the United Nations Sustainable Development Goal 4—ensuring inclusive and equitable quality education for all. Our app leverages a **revolutionary, custom-trained AI model**, meticulously designed to deliver the expertise, empathy, and truly personalized guidance of a world-class teacher directly to every learner’s phone. This isn't just about providing information; it's about crafting dynamic AI interactions that adapt precisely to each student’s unique context, learning style, and needs, making profound, effective guidance accessible regardless of location or background. We're bridging educational gaps, empowering independent learning, and making world-class teaching a vibrant reality for every student, everywhere.
 
 *   **Discovery Over Delivery:** We champion the learning process over the final answer. Our AI-powered guidance deconstructs challenges into a series of smaller, interconnected steps, allowing students to build confidence and comprehension layer by layer, fostering genuine "aha!" moments.
 
@@ -27,7 +27,7 @@ Luminara Learn provides tailored, intuitive experiences for its diverse user bas
 Students embark on an exciting, guided exploration process:
 
 1.  **Capture the Challenge:** Easily input problems or concepts by snapping a photo or typing them in.
-2.  **Smart Processing:** Our intelligent backend sends the problem to a large language model (LLM) using a meticulously crafted prompt. This "genius prompt engineering" ensures the LLM doesn't just give an answer, but breaks down the problem into clear, educational steps—guiding students to learn, discover, and truly understand, just like a dedicated teacher.
+2.  **Smart Processing:** Our intelligent backend processes the problem using our **proprietary, custom-trained AI model**. This advanced AI doesn't just provide answers; it meticulously breaks down complex problems into clear, educational steps—guiding students to learn, discover, and truly understand, just like a dedicated, personalized tutor.
 3.  **Guided Exploration:** Receive interactive, step-by-step guidance through a series of engaging cards.
 4.  **Build Understanding:** Progress at their own pace using intuitive navigation options (`Next`, `Back`, `Close`).
 5.  **Celebrate Success:** Rate their learning experience and solidify understanding, helping us continuously refine our prompts for even better guidance.
@@ -55,11 +55,7 @@ Teachers can extend their reach and effectiveness, amplifying their impact:
 
 ## Experience Luminara Learn in Action! 🎬
 
-Curious to see Luminara Learn in motion? Get an exclusive first look at our early demo! Simply download [Expo Go](https://expo.dev/client) from the Play Store or App Store, then scan the QR code below to instantly explore a preview of our app and discover how we're illuminating the path to understanding.
-
-![QR Code](./Demo%20Video%20Of%20Product/Expo%20go.png)
-
-Want to dive deeper? Feel free to clone this repo and import it into your [bolt.new](https://bolt.new) environment. Tweak, experiment, and make it your own—then share your creations and insights with us by tagging **#LuminaraLearn** and **#PLPHackathon**. We can't wait to see how you help light the way!
+Curious to see Luminara Learn in motion? Clone this repo and import it into your [bolt.new](https://bolt.new) environment and enjoy. Tweak, experiment, and make it your own—then share your creations and insights with us by tagging **#LuminaraLearn**. We can't wait to see how you help light the way!
 
 ---
 
