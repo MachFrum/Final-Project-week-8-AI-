@@ -122,7 +122,7 @@ streamlit run webapp.py
 
 ## 8. 🚀 Live Demo
 
-🔮 [Click here to preview the Luminara Student Success Simulator on Streamlit](https://52okcq6zpvq9vqme3qshva.streamlit.app/)
+🔮 [Click here to preview the Luminara Student APP](https://luminaralearn.com/)
 
 
 This project underscores Luminara Learn's unwavering commitment to data-driven educational excellence, providing a clear path to student achievement and ensuring that every student has the opportunity to reach their full potential.
