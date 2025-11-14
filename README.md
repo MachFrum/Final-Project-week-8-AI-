@@ -122,11 +122,11 @@ streamlit run webapp.py
 
 ## 8. 🚀 Live Demo
 
-🔮 [Click here to preview the Luminara Student APP](https://luminaralearn.com/)
+🔮 [Click here to preview the Luminara Learn App](https://luminaralearn.com/)
 
 
 This project underscores Luminara Learn's unwavering commitment to data-driven educational excellence, providing a clear path to student achievement and ensuring that every student has the opportunity to reach their full potential.
 
 ## 9. Check this one out.
 
-[SDG 3].(https://github.com/MachFrum/Breast-cancer.git)
+In this same repo, check the SDG 3 Branch.
