@@ -219,14 +219,14 @@ sampler = WeightedRandomSampler(weights, len(dataset))
 
 ### Training Dynamics
 <p align="center">
-  <img src="Article/Training history.png" width="800" alt="Training History">
+  <img src="Breast scans/Article/Training history.png" width="800" alt="Training History">
 </p>
 
 The model converges smoothly with controlled overfitting through early stopping.
 
 ### Confusion Matrix Analysis
 <p align="center">
-  <img src="Article/confusion matrix.png" width="400" alt="Confusion Matrix">
+  <img src="Breast scans/Article/confusion matrix.png" width="400" alt="Confusion Matrix">
 </p>
 
 - ✅ **True Positives**: 31 (Correctly identified cancers)
@@ -236,7 +236,7 @@ The model converges smoothly with controlled overfitting through early stopping.
 
 ### ROC Curve
 <p align="center">
-  <img src="Article/ROC curve.png" width="500" alt="ROC Curve">
+  <img src="Breast scans/Article/ROC curve.png" width="500" alt="ROC Curve">
 </p>
 
 Near-perfect separation with AUC of 0.9518, indicating excellent discrimination ability.
