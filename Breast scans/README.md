@@ -219,14 +219,14 @@ sampler = WeightedRandomSampler(weights, len(dataset))
 
 ### Training Dynamics
 <p align="center">
-  <img src="docs/images/training_history.png" width="800" alt="Training History">
+  <img src="Article/Training history.png" width="800" alt="Training History">
 </p>
 
 The model converges smoothly with controlled overfitting through early stopping.
 
 ### Confusion Matrix Analysis
 <p align="center">
-  <img src="docs/images/confusion_matrix.png" width="400" alt="Confusion Matrix">
+  <img src="Article/confusion matrix.png" width="400" alt="Confusion Matrix">
 </p>
 
 - ✅ **True Positives**: 31 (Correctly identified cancers)
@@ -236,7 +236,7 @@ The model converges smoothly with controlled overfitting through early stopping.
 
 ### ROC Curve
 <p align="center">
-  <img src="docs/images/roc_curve.png" width="500" alt="ROC Curve">
+  <img src="Article/ROC curve.png" width="500" alt="ROC Curve">
 </p>
 
 Near-perfect separation with AUC of 0.9518, indicating excellent discrimination ability.
@@ -257,7 +257,7 @@ Near-perfect separation with AUC of 0.9518, indicating excellent discrimination 
 
 ## 🤝 Contributing
 
-We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### Areas needing help:
 - Model optimization for edge devices
@@ -270,17 +270,17 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for deta
 If you use this work in your research, please cite:
 
 ```bibtex
-@software{Lumina_Health_breast_ultrasound_ai_2025,
+@software{Luminara_Health_breast_ultrasound_ai_2025,
   title={Ensemble Deep Learning for Breast Cancer Detection in Ultrasound Images},
   author={Peter Macharia},
   year={2025},
-  url={https://github.com/yourusername/breast-cancer-ultrasound-ai}
+  url={https://https://github.com/MachFrum/Final-Project-week-8-AI-.git}
 }
 ```
 
 ## ⚖️ License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
 
 ## ⚠️ Medical Disclaimer
 
@@ -297,4 +297,5 @@ This tool is intended for research and educational purposes only. It should not 
 <p align="center">
   <b>Together, we can make cancer screening more accessible and accurate.</b><br>
   Star ⭐ this repo if you believe in the mission!
+
 </p>s
